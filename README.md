@@ -1,7 +1,6 @@
 # Tipos de padrões de Projetos com Java
-![img_1.png](src/imgs/img_1.png)
-
 Este projeto demonstra a implementação de diferentes padrões de projeto, como Singleton e Strategy, além de utilizar o padrão Facade para simplificar o acesso a subsistemas complexos.
+![img_1.png](src/imgs/img_1.png)
 
 ## Estrutura do Projeto
 O projeto está organizado da seguinte forma:
